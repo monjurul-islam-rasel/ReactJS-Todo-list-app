@@ -1,13 +1,13 @@
 #ReactJS-Todo-list-app
 
-reactjs
-components
-es6
-react-router
-axios
-uuid-generator
-pages
-hashrouter 
+reactjs,
+components,
+es6,
+react-router,
+axios,
+uuid-generator,
+pages,
+hashrouter,
 
 Installation - Steps ->
 
